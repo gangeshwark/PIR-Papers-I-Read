@@ -14,3 +14,10 @@ Papers: _ACM Library_
 
 4. INTERNATIONAL AAAI CONFERENCE ON WEB AND SOCIAL MEDIA (ICWSM)
 Conference: http://www.icwsm.org
+
+5. ACM's SIG on Knowledge Discovery and Data Mining (KDD)
+Conference: http://www.kdd.org/
+Papers: _ACM Library_
+
+6. Association for the Advancement of Artificial Intelligence (AAAI)
+Conference: http://www.aaai.org/home.html
