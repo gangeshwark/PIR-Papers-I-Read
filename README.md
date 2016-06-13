@@ -1,4 +1,4 @@
-# PIR-Papers-I-Read
+# Papers I Read
 List of Research/Journal/Conference Papers I read
 
 ### April 2016
