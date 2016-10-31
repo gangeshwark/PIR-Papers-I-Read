@@ -14,3 +14,4 @@ List of papers to read
 
 7. [A Survey: Time Travel in Deep Learning Space: An Introduction to Deep Learning Models and How Deep Learning Models Evolved from the Initial Ideas](http://arxiv.org/abs/1510.04781)
 
+8. [Exploring the Limits of Language Modeling](http://arxiv.org/pdf/1602.02410.pdf)
